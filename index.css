@@ -552,7 +552,7 @@ a:hover {
 }
 
 .bed4 {
-  background: url(unsplash_nEtpvJjnPVo.png);
+  background: url(images/unsplash_nEtpvJjnPVo.png);
   background-size: cover;
   height: 334px;
   width: 250px;
@@ -567,7 +567,7 @@ a:hover {
 }
 
 .joy4 {
-  background: url(Image\ 2.png);
+  background: url(images/Image\ 2.png);
   background-size: cover;
   height: 290px;
   width: 290px;
@@ -582,7 +582,7 @@ a:hover {
 }
 
 .spray4 {
-  background: url(unsplash_uooMllXe6gE.png);
+  background: url(images/unsplash_uooMllXe6gE.png);
   background-size: cover;
   height: 285px;
   width: 212px;
@@ -597,7 +597,7 @@ a:hover {
 }
 
 .grp4 {
-  background: url(unsplash_XdWkFaHI97c.png);
+  background: url(images/unsplash_XdWkFaHI97c.png);
   background-size: cover;
   height: 356px;
   width: 338px;
@@ -975,7 +975,7 @@ span {
 
 
 
-
+/* 
 @media screen and (max-width: 576px) {
   
   
@@ -997,4 +997,4 @@ span {
 
 
 
-}
+} */
